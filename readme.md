@@ -1,7 +1,7 @@
 
-# H1 ISS Overhead Checker
+# ISS Overhead Checker
 
-## H2 Using open-notify.org-api, sunrise-sunset.org and smtplib with Python
+## Using open-notify.org-api, sunrise-sunset.org and smtplib with Python
 
 ---
 
